@@ -32,6 +32,11 @@
   margin: 0 auto;
 }
 
+.image-logo {
+  width: 4rem;
+  height: 4rem;
+}
+
 .skills .skills__content ul li h3 {
   font-size: 1.6rem;
   font-weight: 500;
